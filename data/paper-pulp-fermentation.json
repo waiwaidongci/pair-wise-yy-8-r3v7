@@ -26,10 +26,14 @@
           "temperature": "25.1",
           "smell": "微酸",
           "fiber": "松散",
-          "changedWater": "是",
+          "changedWater": true,
           "abnormal": false
         }
-      ]
+      ],
+      "id": "1b83878e-2a00-46e8-a026-dba3c0dd5886",
+      "reviewState": "none",
+      "recoveryStreak": 0,
+      "reviews": []
     }
   ]
 }
